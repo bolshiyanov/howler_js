@@ -33,7 +33,7 @@
             return result ?
                 parseInt(result[1],16).toString()+','+parseInt(result[2], 16).toString()+','+parseInt(result[3], 16).toString()
                 : null;
-        })(opt.color || '#fff') || '255,255,255';
+        })(opt.color || '#D3BF73') || '211,191,115';
 
         // Canvas
 
