@@ -285,6 +285,51 @@ var player = new Player([
         title: 'Running Out',
         file: 'running_out',
         howl: null
+    },
+    {
+        title: 'medisi_1',
+        file: 'medisi_1',
+        howl: null
+    },
+    {
+        title: 'medisi_2',
+        file: 'medisi_2',
+        howl: null
+    },
+    {
+        title: 'medisi_3',
+        file: 'medisi_3',
+        howl: null
+    },
+    {
+        title: 'medisi_4',
+        file: 'medisi_4',
+        howl: null
+    },
+    {
+        title: 'medisi_5',
+        file: 'medisi_5',
+        howl: null
+    },
+    {
+        title: 'medisi_6',
+        file: 'medisi_6',
+        howl: null
+    },
+    {
+        title: 'medisi_7',
+        file: 'medisi_7',
+        howl: null
+    },
+    {
+        title: 'medisi_8',
+        file: 'medisi_8',
+        howl: null
+    },
+    {
+        title: 'medisi_9',
+        file: 'medisi_9',
+        howl: null
     }
 ]);
 
