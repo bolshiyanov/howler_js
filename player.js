@@ -272,51 +272,20 @@ Player.prototype = {
 // Setup our new audio player class and pass it the playlist.
 var player = new Player([
     {
-        title: 'Medisi_1',
-        file: 'Medisi_1',
+        title: 'Rave Digger',
+        file: 'rave_digger',
         howl: null
     },
     {
-        title: 'Medisi_2',
-        file: 'Medisi_2',
+        title: '80s Vibe',
+        file: '80s_vibe',
         howl: null
     },
     {
-        title: 'Medisi_3',
-        file: 'Medisi_3',
-        howl: null
-    },
-    {
-        title: 'Medisi_4',
-        file: 'Medisi_4',
-        howl: null
-    },
-    {
-        title: 'Medisi_5',
-        file: 'Medisi_5',
-        howl: null
-    },
-    {
-        title: 'Medisi_6',
-        file: 'Medisi_6',
-        howl: null
-    },
-    {
-        title: 'Medisi_7',
-        file: 'Medisi_7',
-        howl: null
-    },
-    {
-        title: 'Medisi_8',
-        file: 'Medisi_8',
-        howl: null
-    },
-    {
-        title: 'Medisi_9',
-        file: 'Medisi_9',
+        title: 'Running Out',
+        file: 'running_out',
         howl: null
     }
-
 ]);
 
 // Bind our player controls.
